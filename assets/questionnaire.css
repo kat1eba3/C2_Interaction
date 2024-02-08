@@ -1,0 +1,68 @@
+img{
+    max-width: 20%;
+    max-height: 20%
+    }
+
+
+    .rnb {
+        color: #160fc9; /* Red */
+        font-family: 'Rockwell', sans-serif;
+    }
+    .Alternative {
+        color: #0db453; /* Red */
+        font-family: 'Rockwell', sans-serif;
+    }
+    .electronic{
+        color: #FF0000; /* Red */
+        font-family: 'Rockwell', sans-serif;
+    }
+
+    #playButton {
+        /* Change position */
+        position: absolute;
+        bottom: -370%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+  
+        /* Change appearance */
+        background-color: #e6544f; /* Green */
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        cursor: pointer;
+  
+        /* Change size */
+        width: 150px;
+        height: 50px;
+
+        
+      }
+
+      #playButton:hover {
+        background-color: #F7DC6F; /* Change the color on hover */
+    }
+
+p{ font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 16px;  
+
+}
+
+li{font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 20px; /* Adjust the margin as needed */
+    margin-bottom: 20px; /* Adjust the margin as needed */
+  }
+  
+body {
+    background-color: rgb(214, 236, 243);
+  }
+
+
