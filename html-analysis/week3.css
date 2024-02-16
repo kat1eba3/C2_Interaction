@@ -1,8 +1,3 @@
-#screenshot img {
-    width: 1000px; /* Adjust the width as needed */
-    height: auto; /* Auto-adjust height to maintain aspect ratio */
-}
-
 body {
     background-color: #93c47d; /* Change to your desired background color */
     font-family: 'Courier Sans', sans-serif; /* Change to Courier Sans or another preferred font */
