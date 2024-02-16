@@ -1,6 +1,6 @@
 #screenshot img {
-    width: 300px; /* Adjust the width as needed */
-    height: 400px; /* Auto-adjust height to maintain aspect ratio */
+    width: 800px; /* Adjust the width as needed */
+    height: auto; /* Auto-adjust height to maintain aspect ratio */
 }
 
 body {
