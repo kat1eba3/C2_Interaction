@@ -2,3 +2,8 @@
     width: 800px; /* Adjust the width as needed */
     height: auto; /* Auto-adjust height to maintain aspect ratio */
 }
+
+body {
+    background-color: #0E6655; /* Change to your desired background color */
+    font-family: 'Courier Sans', sans-serif; /* Change to Courier Sans or another preferred font */
+}
